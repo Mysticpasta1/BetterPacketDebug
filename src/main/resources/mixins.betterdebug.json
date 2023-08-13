@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.mystic.betterdebug.mixin",
+  "refmap": "refmap.betterdebug.json",
+  "mixins": [
+    "BetterDebugMixin"
+  ],
+  "client": [],
+  "server": []
+}
